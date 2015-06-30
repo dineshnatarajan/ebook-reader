@@ -1,0 +1,1 @@
+This project hopes to build a nice E-Book Reader in Zune HD. This application will contain all the features from bookmarking to categorizing books based on authors.
